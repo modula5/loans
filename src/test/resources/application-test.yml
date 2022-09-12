@@ -1,0 +1,9 @@
+api:
+  loan:
+    minAmount: 20
+    maxAmount: 2000
+    minPeriod: 7
+    maxPeriod: 1800
+    firstForbiddenHour: 0
+    lastForbiddenHour: 5
+    maxApplicationPerDay: 3
